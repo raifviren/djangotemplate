@@ -1,0 +1,16 @@
+[run]
+
+branch = True
+
+timid = True
+
+source =
+    user
+
+
+omit =
+    */tests/*
+    */migrations/*
+    */apps.py
+    djangotemplate/*
+
